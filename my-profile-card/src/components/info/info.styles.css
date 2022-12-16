@@ -1,0 +1,47 @@
+.info-container {
+  width: fit-content;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #23252c;
+  color: #ffffff;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+.profile-image {
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  width: 100%;
+}
+
+.info-container h1 {
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+
+.info-container p {
+  font-size: 0.8rem;
+  color: #e3931a;
+  margin-top: 10px;
+}
+
+.info-container a {
+  font-size: 0.7rem;
+  text-decoration: none;
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.info-container .btn-container {
+  margin-top: 10px;
+}
+
+a.btn-email {
+  color: #374151;
+  background-color: #ffffff;
+  width: 80%;
+  display: inline-block;
+  margin: 10px 0;
+  padding: 0.5rem;
+  font-weight: bold;
+  border-radius: 6px;
+}
